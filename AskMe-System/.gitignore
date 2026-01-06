@@ -1,0 +1,8 @@
+/x64/
+*.exe
+*.ilk
+*.pdb
+*.obj
+*.log
+*.tlog/
+*.vcxproj.user
