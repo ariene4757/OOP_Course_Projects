@@ -1,0 +1,6 @@
+1|hello, what is your name?|1|2|-1|my name is nour emad and you?|0
+2|hello ahmed, what is your fav programming lang?|1|3|-1|i guess c++ is my fav although it is hard|1
+3|oh cpp? how long did you take to learn it?|1|3|2|about 3 monthes with hard work|0
+4|could you tell me about best sources to learn cpp ?|4|2|-1|i think c++ how to program book is so good also dr mostafa saad courses are enough to be good at cpp|0
+5|my name is rewan also i am cs student at tanta uni what about you?|1|2|1|i am medical student but i like programming|0
+7|ok thank you.|1|3|3|Not answered yet|0

@@ -1,0 +1,23 @@
+CRS|2|Machine Learning|4|AI101|Dr. Sara Ahmed|3
+ASG|1|Explain Linear Regression|10|11|2|2026|3|20
+ASG|2|Define Clustering|10|14|2|2026|3|25
+CRS|1|Intro to CS|0|CS101|Dr. Ahmed Ali|3
+ASG|1|Convert 15 to Binary|5|10|4|2026|4|10
+SOL|5|1111|5|NO COMMENT
+CRS|5|History|0|HIS101|Dr. Ahmed Ali|1
+ASG|1|Gilgamesh searched for eternal life but failed. If you found the plant of immortality today, would you eat it? Explain why in one sentence.|10|15|2|2026|5|37
+ASG|2|Historians say the war was for trade routes, poets say it was for Helen. As a judge, which motive makes more sense to you and why?|10|15|2|2026|5|38
+CRS|3|Information Systems|0|IS202|Dr. Ahmed Ali|1
+ASG|1|how to create pavoit table in excel|10|12|2|2026|4|14
+CRS|4|Logic Design|4|IT102|Dr. Sara Ahmed|0
+ASG|1|Simplify A + AB|5|7|2|2026|5|5
+CRS|0|Math 1|0|Math101|Dr. Ahmed Ali|5
+ASG|1|Find the derivative of f(x) = x^2|10|12|2|2026|2|18
+SOL|1|2x|10|Excellent
+SOL|2|2x|-1|NO COMMENT
+SOL|3|x|0|Wrong answer
+ASG|2|Integrate 2x dx|10|15|3|2026|2|25
+SOL|1|x^2 + C|10|Great
+SOL|5|x^2|-1|NO COMMENT
+ASG|3|Solve limit x->0 sin(x)/x|5|10|1|2026|3|1
+SOL|1|1|-1|NO COMMENT

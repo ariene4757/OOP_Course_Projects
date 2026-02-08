@@ -1,0 +1,12 @@
+# Visual Studio files
+.vs/
+out/
+build/
+*.exe
+*.obj
+*.pdb
+*.user
+*.suo
+x64/
+Debug/
+Release/
