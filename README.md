@@ -1,17 +1,64 @@
-# OOP Course Projects - Dr. Mostafa Saad
+# OOP Course Projects – C++
 
-This repository contains my solutions and implementations for the projects required in **Dr. Mostafa Saad's Object Oriented Programming (OOP) course**.
+### Based on Dr. Mostafa Saad's OOP Course
 
-## 🚀 About the Projects
-These projects follow the requirements and specifications provided in the course to simulate real-world problem-solving using OOP principles.
+## 📌 Overview
 
-## ⚠️ Important Note
-While the requirements are from the course, **the code implementation is 100% my own work.** I wrote every line of code from scratch to ensure a deep understanding of concepts like:
-- Encapsulation
-- Inheritance
-- Polymorphism
-- Abstraction
-- SOLID Principles
+This repository contains my complete implementations of the required projects from Dr. Mostafa Saad’s Object-Oriented Programming (OOP) course.
 
-## 🏆 Course Certificate
+The projects are designed to simulate structured, real-world problem-solving scenarios using C++ and Object-Oriented Design principles.  
+Each implementation was written from scratch with a focus on clarity, maintainability, and solid architecture.
+
+---
+
+## 🧠 Concepts Applied
+
+Throughout these projects, I applied and practiced:
+
+- Encapsulation and data hiding  
+- Abstraction through well-defined class interfaces  
+- Inheritance and runtime polymorphism  
+- Composition vs. inheritance design decisions  
+- SOLID principles  
+- Separation of concerns  
+- Clean code and modular structure  
+- Edge-case handling and input validation  
+
+---
+
+## 🛠 Technical Focus
+
+- C++ (OOP-based design)
+- Class modeling and responsibility assignment
+- Memory management fundamentals
+- STL usage where appropriate
+- Problem decomposition into scalable components
+
+---
+
+## 📂 Repository Structure
+
+Each project directory includes:
+
+- Clear class separation  
+- Logical file organization  
+- Meaningful naming conventions  
+- Structured implementation following course specifications  
+
+All projects are standalone implementations.
+
+---
+
+## ⚠️ Academic Integrity
+
+While the project requirements follow the official course specifications,  
+all implementations in this repository are entirely my own work.  
+Every line of code was written independently to ensure deep understanding and practical mastery.
+
+---
+
+## 🎓 Course Completion
+
+Successfully completed the CPP Programming and OOP Program  
+CSkilled Academy – February 2026
 ![Course Certificate](Certificate.jpg)
